@@ -1,0 +1,4 @@
+FROM cirrusci/flutter:latest
+MAINTAINER "Red Cricket <redcricket@protonmail.com>"
+
+CMD init
